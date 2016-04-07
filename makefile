@@ -1,5 +1,4 @@
 
-
 SRCS := $(shell ls *.cpp)
 #SRCS_C := $(shell ls *.c)
 
